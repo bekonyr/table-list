@@ -55,6 +55,7 @@ function addTask() {
         </tr> `;
 		input1.value = "";
 		input2.value = "";
+		input3.value = "";
 		err.innerHTML = "";
 	}
 }
